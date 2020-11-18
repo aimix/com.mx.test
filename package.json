@@ -1,0 +1,13 @@
+{
+    "name": "com.mx.test",
+    "displayName": "Demo Package",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "author": "Maxime Montegnies",
+    "description": "Demo Package",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aimix/com.mx.test.git"
+    }
+}
